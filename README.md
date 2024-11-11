@@ -7,6 +7,8 @@ This project aims to develop a weather forecasting model that predicts various w
  `WeatherForecast.ipynb`: The Jupyter Notebook that used the dataset to predict and train the model for the test dataset.
  `README.md`: Detailed guide file for the project.
 
+ ## Download the files
+ ```git clone https://github.com/Raslan5/Weather-Forecast.git```
  ## Requirements
  Install please the following libraries:
   - `pandas`
