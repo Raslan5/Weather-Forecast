@@ -17,4 +17,12 @@ This project aims to develop a weather forecasting model that predicts various w
  ## Usage
  After downloading the required libraries, run the code by opening the Jupyter Notebook in your favorite IDE
  ## Dataset
- 
+ The dataset used in this project, weather_forecast_data.csv, contains historical weather data that serves as the foundation  
+ for building predictive weather models. This dataset includes various features relevant to weather forecasting.
+ ## Features
+  `Temperature`: The temperature recorded in degrees.
+  `Humidity`: The atmospheric humidity percentage, indicating the moisture content in the air.
+  `Wind_Speed`: The speed of the wind.
+  `Cloud_Cover`: The percentage of sky covered by clouds.
+  `Pressure`: The atmospheric pressure.
+  `Rain`: A categorical feature indicating whether there was rain or not.
