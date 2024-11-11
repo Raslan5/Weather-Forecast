@@ -8,7 +8,9 @@ This project aims to develop a weather forecasting model that predicts various w
  `README.md`: Detailed guide file for the project.
 
  ## Download the files
- ```git clone https://github.com/Raslan5/Weather-Forecast.git```
+ ```rb 
+  git clone https://github.com/Raslan5/Weather-Forecast.git
+ ```
  ## Requirements
  Install please the following libraries:
   - `pandas`
