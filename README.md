@@ -9,11 +9,11 @@ This project aims to develop a weather forecasting model that predicts various w
 
  ## Requirements
  Install please the following libraries:
-  `pandas`
-  `numpy`
-  `scikit-learn`
-  `matplotlib`
-  `tensorflow`
+  - `pandas`
+  - `numpy`
+  - `scikit-learn`
+  - `matplotlib`
+  - `tensorflow`
  ## Usage
  After downloading the required libraries, run the code by opening the Jupyter Notebook in your favorite IDE
  ## Dataset
